@@ -1,0 +1,10 @@
+{
+  "businessId": 0,
+  "businessType": 0,
+  "channel": "message_channel",
+  "currentTime": 0,
+  "id": 0,
+  "name": "user_name",
+  "nameEn": "user_nameEn",
+  "username": "username"
+}
